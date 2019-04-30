@@ -27,6 +27,7 @@ Apk sign debug platform key:
 
 
 </br>
+</br>
 Development environment:
 	Android Studio 3.4
 	Build #AI-183.5429.30.34.5452501, built on April 10, 2019
