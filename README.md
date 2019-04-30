@@ -18,7 +18,7 @@ Requirements:
 11.	Compare the xxx and T and calculate the difference then record to a calibration file.
 
 
-
+</br>
 Apk sign debug platform key:
 	Android Studio menu "Build" 
 		-> "Generate Signed Bundle/APK"
@@ -26,7 +26,7 @@ Apk sign debug platform key:
 		-> fill in fields, "Key store path", "Key stor password", "Key alias", "Key password"
 
 
-
+</br>
 Development environment:
 	Android Studio 3.4
 	Build #AI-183.5429.30.34.5452501, built on April 10, 2019
